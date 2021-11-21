@@ -2,7 +2,7 @@
 
 [in development]
 
-Versa Mod Project For VRChat
+[Versa Mod Project For VRChat]
 
 To get the client download the dll installer from the Release section
 
