@@ -1,11 +1,10 @@
 # Versa
+The project is closed, 
 
-[in development]
+due to the release of EAC, 
 
-[Versa Mod Project For VRChat]
+the modification servers are disabled, 
 
-Discord Group: https://discord.gg/sbV6g7BnsQ
+payment is not accepted, 
 
-All info here: 
-
-Site: https://fiass.github.io/Versa/
+the modification will never be restored and functional!
